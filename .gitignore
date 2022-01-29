@@ -1,0 +1,6 @@
+__*
+build
+dist
+*.json
+*.csv
+json2csv.spec
